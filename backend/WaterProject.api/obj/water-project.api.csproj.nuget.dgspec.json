@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lincolnadams/Documents/School/IS413-EnterpriseAppDev/water-project/backend/WaterProject.api/water-project.api.csproj": {}
+    "C:\\Users\\linco\\Lincoln-Home\\School\\IS413-EnterpriseAppDev\\water-project-is413\\backend\\WaterProject.api\\water-project.api.csproj": {}
   },
   "projects": {
-    "/Users/lincolnadams/Documents/School/IS413-EnterpriseAppDev/water-project/backend/WaterProject.api/water-project.api.csproj": {
+    "C:\\Users\\linco\\Lincoln-Home\\School\\IS413-EnterpriseAppDev\\water-project-is413\\backend\\WaterProject.api\\water-project.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lincolnadams/Documents/School/IS413-EnterpriseAppDev/water-project/backend/WaterProject.api/water-project.api.csproj",
+        "projectUniqueName": "C:\\Users\\linco\\Lincoln-Home\\School\\IS413-EnterpriseAppDev\\water-project-is413\\backend\\WaterProject.api\\water-project.api.csproj",
         "projectName": "water-project.api",
-        "projectPath": "/Users/lincolnadams/Documents/School/IS413-EnterpriseAppDev/water-project/backend/WaterProject.api/water-project.api.csproj",
-        "packagesPath": "/Users/lincolnadams/.nuget/packages/",
-        "outputPath": "/Users/lincolnadams/Documents/School/IS413-EnterpriseAppDev/water-project/backend/WaterProject.api/obj/",
+        "projectPath": "C:\\Users\\linco\\Lincoln-Home\\School\\IS413-EnterpriseAppDev\\water-project-is413\\backend\\WaterProject.api\\water-project.api.csproj",
+        "packagesPath": "C:\\Users\\linco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\linco\\Lincoln-Home\\School\\IS413-EnterpriseAppDev\\water-project-is413\\backend\\WaterProject.api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/lincolnadams/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\linco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -72,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
